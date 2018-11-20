@@ -2,6 +2,7 @@ lib/
 .gradle
 /build/
 gradle/
+gradlew*
 
 ### STS ###
 .apt_generated
